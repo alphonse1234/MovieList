@@ -3,7 +3,7 @@
 //  MyMovieList
 //
 //  Created by 장창순 on 2016. 2. 18..
-//  Copyright © 2016년 Swiftbook. All rights reserved.
+//  Copyright © 2016년 All rights reserved.
 //
 
 import UIKit
